@@ -1,5 +1,5 @@
 # Assignment-6
-UTILIZE HADOOP FOR DATA ANALYSIS <br/>
+# Hadoop Streaming API for Dataset Analysis <br/>
 <br/>
 The following commands are required to run the analysis after cloning the python files into CS Cloud <br/>
 <br/>
